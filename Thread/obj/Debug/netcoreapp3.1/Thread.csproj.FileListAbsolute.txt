@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\bin\Debug\netcoreapp3.1\Thread.exe
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\bin\Debug\netcoreapp3.1\Thread.deps.json
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\bin\Debug\netcoreapp3.1\Thread.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\bin\Debug\netcoreapp3.1\Thread.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\bin\Debug\netcoreapp3.1\Thread.dll
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\bin\Debug\netcoreapp3.1\Thread.pdb
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\obj\Debug\netcoreapp3.1\Thread.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\obj\Debug\netcoreapp3.1\Thread.Form1.resources
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\obj\Debug\netcoreapp3.1\Thread.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\obj\Debug\netcoreapp3.1\Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\obj\Debug\netcoreapp3.1\Thread.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\obj\Debug\netcoreapp3.1\Thread.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\obj\Debug\netcoreapp3.1\Thread.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\obj\Debug\netcoreapp3.1\Thread.dll
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\obj\Debug\netcoreapp3.1\Thread.pdb
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\Thread\obj\Debug\netcoreapp3.1\Thread.genruntimeconfig.cache

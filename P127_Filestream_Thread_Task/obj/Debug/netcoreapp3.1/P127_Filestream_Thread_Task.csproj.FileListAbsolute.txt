@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\P127_Filestream_Thread_Task\bin\Debug\netcoreapp3.1\P127_Filestream_Thread_Task.exe
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\P127_Filestream_Thread_Task\bin\Debug\netcoreapp3.1\P127_Filestream_Thread_Task.deps.json
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\P127_Filestream_Thread_Task\bin\Debug\netcoreapp3.1\P127_Filestream_Thread_Task.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\P127_Filestream_Thread_Task\bin\Debug\netcoreapp3.1\P127_Filestream_Thread_Task.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\P127_Filestream_Thread_Task\bin\Debug\netcoreapp3.1\P127_Filestream_Thread_Task.dll
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\P127_Filestream_Thread_Task\bin\Debug\netcoreapp3.1\P127_Filestream_Thread_Task.pdb
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\P127_Filestream_Thread_Task\obj\Debug\netcoreapp3.1\P127_Filestream_Thread_Task.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\P127_Filestream_Thread_Task\obj\Debug\netcoreapp3.1\P127_Filestream_Thread_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\P127_Filestream_Thread_Task\obj\Debug\netcoreapp3.1\P127_Filestream_Thread_Task.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\P127_Filestream_Thread_Task\obj\Debug\netcoreapp3.1\P127_Filestream_Thread_Task.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\P127_Filestream_Thread_Task\obj\Debug\netcoreapp3.1\P127_Filestream_Thread_Task.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\P127_Filestream_Thread_Task\obj\Debug\netcoreapp3.1\P127_Filestream_Thread_Task.dll
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\P127_Filestream_Thread_Task\obj\Debug\netcoreapp3.1\P127_Filestream_Thread_Task.pdb
+C:\Users\Lenovo\source\repos\P127_Filestream_Thread_Task\P127_Filestream_Thread_Task\obj\Debug\netcoreapp3.1\P127_Filestream_Thread_Task.genruntimeconfig.cache
